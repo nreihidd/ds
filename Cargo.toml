@@ -1,0 +1,12 @@
+[package]
+name = "ds"
+version = "0.1.0"
+authors = ["no"]
+
+[dependencies]
+glium = "0"
+nalgebra = "0"
+image = "0"
+rusttype = "0"
+lazy_static = "0"
+time = "0"
